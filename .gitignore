@@ -1,0 +1,10 @@
+# Local filled-in profile (may contain IPs, emails, vote keys)
+my-server-profile.md
+server-profile.local.md
+*.local.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
